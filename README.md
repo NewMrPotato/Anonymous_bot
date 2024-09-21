@@ -31,6 +31,7 @@ Now, you can start the bot by entering the following command in the console:
 python main.py
 ```
 
+
 ---
 
 ## Administration
