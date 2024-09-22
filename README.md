@@ -31,13 +31,30 @@ Now, you can start the bot by entering the following command in the console:
 python main.py
 ```
 
+## Running
+
+- Firstly, you will see a panel with `🚀Search` and `👤Profile` buttons
+![1](data/images/readme/2.PNG)
+
+
+- After clicking on the `👤Profile`, you will see all the information about yourself in the bot. There are two buttons under message with info, using them you can change your **age** or **gender**
+![3](data/images/readme/3.PNG)
+
+
+- After clicking on the `🚀Search`, the search will begin, and you will only need to wait until the bot finds the interlocutor
+![4](data/images/readme/4.PNG)
+
+
+- In addition to the button panel, you can also use the command menu, where you can find all the functionality 
+
+    ![5](data/images/readme/5.PNG)
 
 ---
 
 ## Administration
 
 - As for administration, if you send command `/admin`, you will see all information about admins possibilities
-![13](data/images/readme/13.PNG)
+![1](data/images/readme/1.PNG)
 
 ### Commands
 
